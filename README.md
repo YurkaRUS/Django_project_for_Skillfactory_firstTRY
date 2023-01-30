@@ -1,0 +1,2 @@
+# Django_project_for_Skillfactory_firstTRY
+ Skillfactory_Kudryashov_PDEV20_D1.6
